@@ -1,5 +1,5 @@
 # EasyDebts
-JAVA 8 , Design pattern , TDD, BDD
+JAVA 8, Junit, Design pattern, TDD, BDD
 
 ## Use Case
 You are going on a road trip with your friends. There are 4 of you in a rental car :
